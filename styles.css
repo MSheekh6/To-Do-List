@@ -181,9 +181,9 @@ body {
     justify-content: center;
     align-items: center;
     position: relative;
-    background: url("../img/bg.jpg");
+    background: url("bg.jpg");
     background-size: cover;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/bg.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("bg.jpg");
 }
 
 .container-main {
@@ -207,8 +207,8 @@ body {
 
 .container-right {
     position: relative;
-    background: url("../img/container-bg.jpg");
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../img/container-bg.jpg");
+    background: url("container.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("container.jpg");
     background-size: cover;
     width: 75%;
     border-radius: 0px 12px 12px 0px;
